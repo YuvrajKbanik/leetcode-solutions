@@ -28,6 +28,7 @@ https://leetcode.com/u/Yuvraj_Kansa_Banik/
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Binary Search
 |  |
@@ -36,6 +37,7 @@ https://leetcode.com/u/Yuvraj_Kansa_Banik/
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
 |  |
