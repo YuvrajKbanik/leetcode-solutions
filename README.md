@@ -32,24 +32,29 @@ https://leetcode.com/u/Yuvraj_Kansa_Banik/
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1288-remove-covered-intervals](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
 |  |
 | ------- |
@@ -75,4 +80,13 @@ https://leetcode.com/u/Yuvraj_Kansa_Banik/
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
