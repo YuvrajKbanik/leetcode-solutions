@@ -74,6 +74,7 @@ https://leetcode.com/u/Yuvraj_Kansa_Banik/
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
@@ -89,6 +90,7 @@ https://leetcode.com/u/Yuvraj_Kansa_Banik/
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
@@ -102,4 +104,8 @@ https://leetcode.com/u/Yuvraj_Kansa_Banik/
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
