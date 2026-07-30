@@ -50,6 +50,7 @@ https://leetcode.com/u/Yuvraj_Kansa_Banik/
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
@@ -61,11 +62,13 @@ https://leetcode.com/u/Yuvraj_Kansa_Banik/
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
 |  |
 | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
