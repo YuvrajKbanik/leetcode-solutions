@@ -51,12 +51,14 @@ https://leetcode.com/u/Yuvraj_Kansa_Banik/
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
 |  |
@@ -69,6 +71,7 @@ https://leetcode.com/u/Yuvraj_Kansa_Banik/
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -78,6 +81,7 @@ https://leetcode.com/u/Yuvraj_Kansa_Banik/
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
@@ -112,4 +116,8 @@ https://leetcode.com/u/Yuvraj_Kansa_Banik/
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+## Counting
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
