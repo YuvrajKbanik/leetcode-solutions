@@ -33,6 +33,7 @@ https://leetcode.com/u/Yuvraj_Kansa_Banik/
 | [0628-maximum-product-of-three-numbers](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/0877-stone-game) |
 | [1288-remove-covered-intervals](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search
@@ -52,6 +53,7 @@ https://leetcode.com/u/Yuvraj_Kansa_Banik/
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
