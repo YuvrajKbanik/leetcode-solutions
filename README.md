@@ -121,6 +121,7 @@ https://leetcode.com/u/Yuvraj_Kansa_Banik/
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Counting
 |  |
 | ------- |
