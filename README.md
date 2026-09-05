@@ -37,6 +37,7 @@ https://leetcode.com/u/Yuvraj_Kansa_Banik/
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
@@ -76,6 +77,7 @@ https://leetcode.com/u/Yuvraj_Kansa_Banik/
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String
 |  |
 | ------- |
