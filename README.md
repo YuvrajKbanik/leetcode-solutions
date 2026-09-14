@@ -82,6 +82,7 @@ https://leetcode.com/u/Yuvraj_Kansa_Banik/
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -94,6 +95,7 @@ https://leetcode.com/u/Yuvraj_Kansa_Banik/
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -151,4 +153,8 @@ https://leetcode.com/u/Yuvraj_Kansa_Banik/
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
