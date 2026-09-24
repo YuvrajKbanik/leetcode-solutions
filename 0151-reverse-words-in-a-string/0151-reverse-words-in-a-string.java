@@ -6,8 +6,9 @@ class Solution {
         for(int i=part.length-1;i>=0;i--)
         {
             res.append(part[i]);
+            if(i!=0)
             res.append(" ");
         }      
-        return (res.toString()).trim(); 
+        return res.toString(); 
     }
 }
