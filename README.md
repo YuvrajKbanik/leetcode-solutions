@@ -85,6 +85,7 @@ https://leetcode.com/u/Yuvraj_Kansa_Banik/
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [1768-merge-strings-alternately](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -117,6 +118,7 @@ https://leetcode.com/u/Yuvraj_Kansa_Banik/
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [1768-merge-strings-alternately](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/YuvrajKbanik/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
